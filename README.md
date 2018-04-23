@@ -1,2 +1,4 @@
 # learning-java
-java jive woop wooooooooop
+
+##Course Description
+Powerful enough to build large N-tiered Internet and intranet applications, Java is a well-designed object-oriented language that allows rapid development of programs. Due to its simplicity, it also is an excellent first-time programming language to learn. This hands-on course presents the fundamentals of programming using Java and covers object-oriented programming, classes, constructors, flow control statements, data types, methods, inheritance, data hiding, abstraction, and the Java library. Students gain experience through a number of programming projects during the course and instruction stresses practical programming skills to prepare them for follow-on Java courses.
